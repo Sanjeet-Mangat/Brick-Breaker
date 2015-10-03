@@ -1,0 +1,257 @@
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SET_Breakout.exe
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SET_Breakout.pdb
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.csprojResolveAssemblyReference.cache
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.exe
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.pdb
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Ball.png
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Paddle.png
+C:\Users\Jeet\Desktop\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Brick.png
+E:\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.exe
+E:\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.pdb
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Ball.png
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Brick.png
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Paddle.png
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SET_Breakout.exe
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SET_Breakout.pdb
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\Lidgren.Network.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.xml
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.csprojResolveAssemblyReference.cache
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.exe
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.pdb
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Ball.png
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Brick.png
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Paddle.png
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SET_Breakout.exe
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SET_Breakout.pdb
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.csprojResolveAssemblyReference.cache
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\button.png
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\MainMenu.png
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\settingBTN.png
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\btnQuit.png
+C:\Users\Jeet\Desktop\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\paused.png
+E:\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.exe
+E:\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.pdb
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\btnQuit.png
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\button.png
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\MainMenu.png
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\paused.png
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\settingBTN.png
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Ball.png
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Brick.png
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Paddle.png
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SET_Breakout.exe
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SET_Breakout.pdb
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Lidgren.Network.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.xml
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.csprojResolveAssemblyReference.cache
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.exe
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.pdb
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\btnQuit.png
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\button.png
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\MainMenu.png
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\paused.png
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\settingBTN.png
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Ball.png
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Brick.png
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Paddle.png
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SET_Breakout.exe
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SET_Breakout.pdb
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.csprojResolveAssemblyReference.cache
+C:\Users\Jeet\Documents\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\Arial.xnb
+E:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\Arial.xnb
+F:\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.exe
+F:\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.pdb
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\btnQuit.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\button.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\MainMenu.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\paused.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\settingBTN.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Ball.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Brick.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Paddle.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\Arial.xnb
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SET_Breakout.exe
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SET_Breakout.pdb
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\SET_Breakout_new\SET_Breakout\obj\x86\Debug\SET_Breakout.csprojResolveAssemblyReference.cache
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\ballSpeedFast.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\ballSpeedMed.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\ballSpeedSlow.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\diffHard.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\diffNormal.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\GameBackground.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\pointsToWin_2.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\pointsToWin_5.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\pointsToWin_unlimited.png
+F:\SET_Breakout_new\SET_Breakout\bin\Windows\Debug\Content\settings.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.exe
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.pdb
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\ballSpeedFast.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\ballSpeedMed.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\ballSpeedSlow.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\btnQuit.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\button.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\diffHard.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\diffNormal.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\GameBackground.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\MainMenu.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\paused.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\pointsToWin_2.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\pointsToWin_5.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\pointsToWin_unlimited.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\settingBTN.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\settings.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Ball.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Brick.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\SET_Breakout_Paddle.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\Arial.xnb
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SET_Breakout.exe
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SET_Breakout.pdb
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Lidgren.Network.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\obj\x86\Debug\SET_Breakout.csprojResolveAssemblyReference.cache
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\sizeUpTexture.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\tunnelTexture.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\unstoppableTexture.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\backButton.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\help.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\lose.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\win.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\about.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\aboutButton.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\helpButton.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\playAgainButton.png
+D:\Documents\Game dev\SET_Breakout\SET_Breakout\bin\Windows\Debug\Content\resumeButton.png
